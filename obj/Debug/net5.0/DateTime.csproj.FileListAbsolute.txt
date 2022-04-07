@@ -1,0 +1,16 @@
+C:\Users\Public\Documents\Practicas y proyectos\proyects_c#\CursoNetMaster_C#\DateTime\bin\Debug\net5.0\DateTime.exe
+C:\Users\Public\Documents\Practicas y proyectos\proyects_c#\CursoNetMaster_C#\DateTime\bin\Debug\net5.0\DateTime.deps.json
+C:\Users\Public\Documents\Practicas y proyectos\proyects_c#\CursoNetMaster_C#\DateTime\bin\Debug\net5.0\DateTime.runtimeconfig.json
+C:\Users\Public\Documents\Practicas y proyectos\proyects_c#\CursoNetMaster_C#\DateTime\bin\Debug\net5.0\DateTime.runtimeconfig.dev.json
+C:\Users\Public\Documents\Practicas y proyectos\proyects_c#\CursoNetMaster_C#\DateTime\bin\Debug\net5.0\DateTime.dll
+C:\Users\Public\Documents\Practicas y proyectos\proyects_c#\CursoNetMaster_C#\DateTime\bin\Debug\net5.0\ref\DateTime.dll
+C:\Users\Public\Documents\Practicas y proyectos\proyects_c#\CursoNetMaster_C#\DateTime\bin\Debug\net5.0\DateTime.pdb
+C:\Users\Public\Documents\Practicas y proyectos\proyects_c#\CursoNetMaster_C#\DateTime\obj\Debug\net5.0\DateTime.csproj.AssemblyReference.cache
+C:\Users\Public\Documents\Practicas y proyectos\proyects_c#\CursoNetMaster_C#\DateTime\obj\Debug\net5.0\DateTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Public\Documents\Practicas y proyectos\proyects_c#\CursoNetMaster_C#\DateTime\obj\Debug\net5.0\DateTime.AssemblyInfoInputs.cache
+C:\Users\Public\Documents\Practicas y proyectos\proyects_c#\CursoNetMaster_C#\DateTime\obj\Debug\net5.0\DateTime.AssemblyInfo.cs
+C:\Users\Public\Documents\Practicas y proyectos\proyects_c#\CursoNetMaster_C#\DateTime\obj\Debug\net5.0\DateTime.csproj.CoreCompileInputs.cache
+C:\Users\Public\Documents\Practicas y proyectos\proyects_c#\CursoNetMaster_C#\DateTime\obj\Debug\net5.0\DateTime.dll
+C:\Users\Public\Documents\Practicas y proyectos\proyects_c#\CursoNetMaster_C#\DateTime\obj\Debug\net5.0\ref\DateTime.dll
+C:\Users\Public\Documents\Practicas y proyectos\proyects_c#\CursoNetMaster_C#\DateTime\obj\Debug\net5.0\DateTime.pdb
+C:\Users\Public\Documents\Practicas y proyectos\proyects_c#\CursoNetMaster_C#\DateTime\obj\Debug\net5.0\DateTime.genruntimeconfig.cache
